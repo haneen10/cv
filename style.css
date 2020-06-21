@@ -46,9 +46,6 @@ hr {
 line-height: 2;
 }
 
-/*
-{ max-resolution top 4px; 0;}*/
-
 .web {
     text-decoration: underline;
 }
@@ -57,8 +54,6 @@ line-height: 2;
     font-weight : normal;
     line-height: 2;
 }
-
-/*********************************************************************************************************/
 
 .top {
     background-color:#E4F9F5 ;
